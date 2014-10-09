@@ -9,7 +9,8 @@ import sys
 def main(args=sys.argv[1:]):
     program_description = ('Converts from a given input time specification to '
                            'other time formats. Include the quotation marks. '
-                           'All year values are four digit years.')
+                           'All year values are four digit years. '
+                           'Example: $ python gpstk_timeconvert.py -f "158 200" ')
     parser = argparse.ArgumentParser(description=program_description)
 
     group = parser.add_mutually_exclusive_group()
@@ -59,8 +60,8 @@ def main(args=sys.argv[1:]):
             try:
                 ct = gpstk.scanTime(input_time, formats[key])
                 time_found = True
-            except gpstk.exceptions.InvalidRequest:
-                raise gpstk.exceptions.InvalidRequest('Input could not be parsed.'
+            except gpstk.InvalidRequest:
+                raise gpstk.InvalidRequest('Input could not be parsed.'
                      '\nCheck the formatting and ensure that the input is both valid and in quotes.'
                      '\nAlso check if the time is too early/late for these formats.')
 

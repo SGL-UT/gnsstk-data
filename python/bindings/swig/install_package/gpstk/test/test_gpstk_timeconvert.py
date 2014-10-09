@@ -3,7 +3,7 @@
 from cStringIO import StringIO
 import sys
 import unittest
-import timeconvert
+import gpstk_timeconvert
 
 
 default_condition = lambda expected,actual: expected.split() == actual.split()
@@ -13,13 +13,13 @@ def run_test(test, commands, expected='', pass_condition=default_condition, rais
     if raises is None:
         old_stdout = sys.stdout
         sys.stdout = mystdout = StringIO()
-        timeconvert.main(commands)
+        gpstk_timeconvert.main(commands)
         actual = mystdout.getvalue()
         sys.stdout = old_stdout
         fail_message = '\nExpected ouput: \n' + expected + "Actual output: " + actual
         test.assertTrue(pass_condition(expected, actual), fail_message)
     else:
-        test.assertRaises(raises, timeconvert.main, commands)
+        test.assertRaises(raises, gpstk_timeconvert.main, commands)
 
 
 class ANSI_input(unittest.TestCase):
@@ -217,8 +217,10 @@ class wz_input_before_epoch(unittest.TestCase):
 class formatted_ouput(unittest.TestCase):
     def test(self):
         run_test(self, ['-R', '05 06 1985 13:50:02', '-F', 'ms:%K, year:%Y'],
-                 'ms:1289048400, year:2010')
+                 'ms:1289048400, year:2010') 
 
+def main():
+    unittest.main()
 
 if __name__ == '__main__':
-    unittest.main()
+    main()
