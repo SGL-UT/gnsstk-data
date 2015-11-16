@@ -1,21 +1,21 @@
-     3.02           OBSERVATION DATA    GPS(GPS)            RINEX VERSION / TYPE
-cnvtToRINEX 2.25.0  convertToRINEX OPR  23-Jan-15 22:34 UTC PGM / RUN BY / DATE 
------------------------------------------------------------ COMMENT             
-7619                                                        MARKER NAME         
-7619                                                        MARKER NUMBER       
-GEODETIC                                                    MARKER TYPE         
-GNSS Observer       Trimble                                 OBSERVER / AGENCY   
-5239497619          R8 Model 3          4.80                REC # / TYPE / VERS 
-                    TRM60158.00                             ANT # / TYPE        
-  -740287.1908 -5457064.3395  3207279.4677                  APPROX POSITION XYZ 
-       -0.0650        0.0000        0.0000                  ANTENNA: DELTA H/E/N
+     3.02           OBSERVATION DATA    M (MIXED)           RINEX VERSION / TYPE
+nonexistent 2.25.0  GPSTK maintainer    06-Nov-15 19:55 UTC PGM / RUN BY / DATE 
+---------------------changed------------------------------- COMMENT             
+6719                                                        MARKER NAME         
+6719                                                        MARKER NUMBER       
+Animal                                                      MARKER TYPE         
+Goat                NPS                                     OBSERVER / AGENCY   
+2539497619          R8 Model 4          4.80                REC # / TYPE / VERS 
+                    TRM60185.00                             ANT # / TYPE        
+  -704287.1908 -5547064.3395  3027279.4677                  APPROX POSITION XYZ 
+       -0.0000        0.0000        0.0000                  ANTENNA: DELTA H/E/N
 G    8 C1C C2W C2X C5X L1C L2W L2X L5X                      SYS / # / OBS TYPES 
   2014    10    31    20    28    0.0000000     GPS         TIME OF FIRST OBS   
   2014    10    31    20    36    0.0000000     GPS         TIME OF LAST OBS    
      0                                                      RCV CLOCK OFFS APPL 
-G L1C  0.00000                                              SYS / PHASE SHIFT   
+G L1C 0.00000                                               SYS / PHASE SHIFT   
 G L2X -0.25000                                              SYS / PHASE SHIFT   
-G L5X  0.00000                                              SYS / PHASE SHIFT   
+G L5X 0.00000                                               SYS / PHASE SHIFT   
     16                                                      LEAP SECONDS        
      9                                                      # OF SATELLITES     
    G05    70     0     0     0    63     0     0     0      PRN / # OF OBS      
@@ -27,6 +27,7 @@ G L5X  0.00000                                              SYS / PHASE SHIFT
    G26    99     0     0     0    96     0     0     0      PRN / # OF OBS      
    G27    12     0    11    12    12     0    11    12      PRN / # OF OBS      
    G29   130     0    69     0   122     0    69     0      PRN / # OF OBS      
+another comment here....----------------------------------- COMMENT             
                                                             END OF HEADER       
 > 2014 10 31 20 28  0.0000000  0  2
 G05  23448820.047 5                                                 123224404.83915                                
