@@ -6,6 +6,7 @@ DLR/GSOC: O. Montenbruck; P. Steigenberger                  COMMENT
 ARL:UT: B. Renfro - Stripped to GAL subset for testing      COMMENT
   E02-E12 were hand-edited (datasources and health) to      COMMENT
   support testing of health detemination                    COMMENT
+GAL    0.4575D+02  0.1641D+00  0.6714D-03                   IONOSPHERIC CORR    
 GAUT   .9313225746D-09  .000000000D+00 345600 2107        0 TIME SYSTEM CORR
 GLUT  -.0000000000D+00  .000000000D+00 345600 2107        0 TIME SYSTEM CORR
 GPUT  -.9313225746D-09 -.355271368D-14  61440 2108        0 TIME SYSTEM CORR
