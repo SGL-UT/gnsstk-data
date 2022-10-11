@@ -1,0 +1,4 @@
+include:
+  - project: sgl-tks/ci-control
+    file: /data_repos/ci_tks_dep_check.yml
+    ref: main
