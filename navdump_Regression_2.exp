@@ -1,7 +1,8 @@
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -52,7 +53,8 @@ In-track      Sine:   1.06878579E-05 rad  Cosine:  -3.80352139E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -103,7 +105,8 @@ In-track      Sine:   1.04494393E-05 rad  Cosine:  -3.60421836E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -154,7 +157,8 @@ In-track      Sine:   1.02892518E-05 rad  Cosine:  -3.74764204E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -205,7 +209,8 @@ In-track      Sine:   1.00098550E-05 rad  Cosine:  -4.50760126E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -256,7 +261,8 @@ In-track      Sine:   9.82172787E-06 rad  Cosine:  -4.25055623E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -307,7 +313,8 @@ In-track      Sine:   1.02352351E-05 rad  Cosine:  -3.60608101E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -358,7 +365,8 @@ In-track      Sine:   1.01346523E-05 rad  Cosine:  -3.68431211E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -409,7 +417,8 @@ In-track      Sine:   1.01532787E-05 rad  Cosine:  -3.24845314E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -460,7 +469,8 @@ In-track      Sine:   1.00117177E-05 rad  Cosine:  -3.37697566E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -511,7 +521,8 @@ In-track      Sine:   9.65781510E-06 rad  Cosine:  -5.15393913E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -562,7 +573,8 @@ In-track      Sine:   9.69506800E-06 rad  Cosine:  -5.09433448E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -613,7 +625,8 @@ In-track      Sine:   9.69506800E-06 rad  Cosine:  -5.09433448E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -664,7 +677,8 @@ In-track      Sine:   9.82917845E-06 rad  Cosine:  -4.45544720E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -715,7 +729,8 @@ In-track      Sine:   8.20308924E-06 rad  Cosine:   1.95018947E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -766,7 +781,8 @@ In-track      Sine:   8.15279782E-06 rad  Cosine:   1.96322799E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -817,7 +833,8 @@ In-track      Sine:   8.78237188E-06 rad  Cosine:   1.73598528E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -868,7 +885,8 @@ In-track      Sine:   9.17166471E-06 rad  Cosine:   1.79745257E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -919,7 +937,8 @@ In-track      Sine:   8.73580575E-06 rad  Cosine:   2.05263495E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -970,7 +989,8 @@ In-track      Sine:   8.66688788E-06 rad  Cosine:   2.16439366E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1021,7 +1041,8 @@ In-track      Sine:   1.03488564E-05 rad  Cosine:  -3.79048288E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1072,7 +1093,8 @@ In-track      Sine:   9.93348658E-06 rad  Cosine:  -4.18908894E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1123,7 +1145,8 @@ In-track      Sine:   9.84221697E-06 rad  Cosine:  -4.42564487E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1174,7 +1197,8 @@ In-track      Sine:   9.77888703E-06 rad  Cosine:  -4.23006713E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1225,7 +1249,8 @@ In-track      Sine:   9.74163413E-06 rad  Cosine:  -3.74391675E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1276,7 +1301,8 @@ In-track      Sine:   1.00750476E-05 rad  Cosine:  -3.73087823E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 5 / SVN : 
+PRN : GPS 5
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1327,7 +1353,8 @@ In-track      Sine:   7.83987343E-06 rad  Cosine:   2.56486237E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 5 / SVN : 
+PRN : GPS 5
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1378,7 +1405,8 @@ In-track      Sine:   7.83987343E-06 rad  Cosine:   2.56486237E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 5 / SVN : 
+PRN : GPS 5
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1429,7 +1457,8 @@ In-track      Sine:   8.23289156E-06 rad  Cosine:   2.00793147E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 5 / SVN : 
+PRN : GPS 5
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1480,7 +1509,8 @@ In-track      Sine:   9.22195613E-06 rad  Cosine:   1.81049109E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 5 / SVN : 
+PRN : GPS 5
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1531,7 +1561,8 @@ In-track      Sine:   8.78050923E-06 rad  Cosine:   2.01724470E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 6 / SVN : 
+PRN : GPS 6
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1582,7 +1613,8 @@ In-track      Sine:   9.98564065E-06 rad  Cosine:  -4.47407365E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 6 / SVN : 
+PRN : GPS 6
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1633,7 +1665,8 @@ In-track      Sine:   9.98564065E-06 rad  Cosine:  -4.47407365E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 6 / SVN : 
+PRN : GPS 6
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1684,7 +1717,8 @@ In-track      Sine:   1.00247562E-05 rad  Cosine:  -3.82214785E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 6 / SVN : 
+PRN : GPS 6
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1735,7 +1769,8 @@ In-track      Sine:   1.00322068E-05 rad  Cosine:  -3.63402069E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1786,7 +1821,8 @@ In-track      Sine:   1.07008964E-05 rad  Cosine:   7.48783350E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1837,7 +1873,8 @@ In-track      Sine:   1.09169632E-05 rad  Cosine:  -6.70552254E-08 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1888,7 +1925,8 @@ In-track      Sine:   1.01160258E-05 rad  Cosine:  -2.23517418E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1939,7 +1977,8 @@ In-track      Sine:   1.03283674E-05 rad  Cosine:   1.69500709E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -1990,7 +2029,8 @@ In-track      Sine:   1.03283674E-05 rad  Cosine:   1.69500709E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2041,7 +2081,8 @@ In-track      Sine:   1.02948397E-05 rad  Cosine:   4.73111868E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 9 / SVN : 
+PRN : GPS 9
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2092,7 +2133,8 @@ In-track      Sine:   5.19305468E-06 rad  Cosine:  -7.45058060E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 9 / SVN : 
+PRN : GPS 9
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2143,7 +2185,8 @@ In-track      Sine:   4.57651913E-06 rad  Cosine:  -5.19677997E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 9 / SVN : 
+PRN : GPS 9
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2194,7 +2237,8 @@ In-track      Sine:   4.88385558E-06 rad  Cosine:  -5.58793545E-09 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 9 / SVN : 
+PRN : GPS 9
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2245,7 +2289,8 @@ In-track      Sine:   4.94532287E-06 rad  Cosine:  -4.84287739E-08 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 10 / SVN : 
+PRN : GPS 10
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2296,7 +2341,8 @@ In-track      Sine:   8.63708556E-06 rad  Cosine:   1.86637044E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 10 / SVN : 
+PRN : GPS 10
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2347,7 +2393,8 @@ In-track      Sine:   8.67061317E-06 rad  Cosine:   1.66520476E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 10 / SVN : 
+PRN : GPS 10
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2398,7 +2445,8 @@ In-track      Sine:   8.72649252E-06 rad  Cosine:   2.00979412E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 10 / SVN : 
+PRN : GPS 10
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2449,7 +2497,8 @@ In-track      Sine:   8.60355794E-06 rad  Cosine:   2.24076211E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 10 / SVN : 
+PRN : GPS 10
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2500,7 +2549,8 @@ In-track      Sine:   8.55326653E-06 rad  Cosine:   2.46427953E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2551,7 +2601,8 @@ In-track      Sine:   7.83987343E-06 rad  Cosine:  -5.13345003E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2602,7 +2653,8 @@ In-track      Sine:   7.11716712E-06 rad  Cosine:  -5.80400229E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2653,7 +2705,8 @@ In-track      Sine:   6.73905015E-06 rad  Cosine:  -5.57675958E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2704,7 +2757,8 @@ In-track      Sine:   6.69620931E-06 rad  Cosine:  -4.75347042E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2755,7 +2809,8 @@ In-track      Sine:   6.91413879E-06 rad  Cosine:  -4.69200313E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2806,7 +2861,8 @@ In-track      Sine:   7.45616853E-06 rad  Cosine:  -4.79258597E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2857,7 +2913,8 @@ In-track      Sine:   5.59538603E-06 rad  Cosine:   4.85405326E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2908,7 +2965,8 @@ In-track      Sine:   5.64381480E-06 rad  Cosine:   4.62308526E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -2959,7 +3017,8 @@ In-track      Sine:   6.39446080E-06 rad  Cosine:   4.04193997E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3010,7 +3069,8 @@ In-track      Sine:   6.98864460E-06 rad  Cosine:   4.44985926E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3061,7 +3121,8 @@ In-track      Sine:   7.63684511E-06 rad  Cosine:   3.74764204E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3112,7 +3173,8 @@ In-track      Sine:   7.59586692E-06 rad  Cosine:   4.27290797E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3163,7 +3225,8 @@ In-track      Sine:   5.81145287E-06 rad  Cosine:  -1.39698386E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3214,7 +3277,8 @@ In-track      Sine:   5.73135912E-06 rad  Cosine:  -1.10082328E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3265,7 +3329,8 @@ In-track      Sine:   5.46500087E-06 rad  Cosine:  -8.36327672E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3316,7 +3381,8 @@ In-track      Sine:   5.06453216E-06 rad  Cosine:  -4.86150384E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3367,7 +3433,8 @@ In-track      Sine:   5.29363751E-06 rad  Cosine:  -3.31550837E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3418,7 +3485,8 @@ In-track      Sine:   5.38676977E-06 rad  Cosine:  -2.32830644E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 14 / SVN : 
+PRN : GPS 14
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3469,7 +3537,8 @@ In-track      Sine:   5.44078648E-06 rad  Cosine:  -1.34855509E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 14 / SVN : 
+PRN : GPS 14
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3520,7 +3589,8 @@ In-track      Sine:   5.37186861E-06 rad  Cosine:  -1.01700425E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 14 / SVN : 
+PRN : GPS 14
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3571,7 +3641,8 @@ In-track      Sine:   5.00120223E-06 rad  Cosine:  -6.01634383E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 14 / SVN : 
+PRN : GPS 14
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3622,7 +3693,8 @@ In-track      Sine:   5.48921525E-06 rad  Cosine:  -3.48314643E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 14 / SVN : 
+PRN : GPS 14
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3673,7 +3745,8 @@ In-track      Sine:   5.48921525E-06 rad  Cosine:  -3.48314643E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3724,7 +3797,8 @@ In-track      Sine:   4.75347042E-06 rad  Cosine:  -1.08405948E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3775,7 +3849,8 @@ In-track      Sine:   4.37162817E-06 rad  Cosine:  -4.97326255E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3826,7 +3901,8 @@ In-track      Sine:   4.70690429E-06 rad  Cosine:  -3.42726707E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3877,7 +3953,8 @@ In-track      Sine:   4.77209687E-06 rad  Cosine:  -2.42143869E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3928,7 +4005,8 @@ In-track      Sine:   4.54112887E-06 rad  Cosine:  -7.45058060E-09 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -3979,7 +4057,8 @@ In-track      Sine:   4.63798642E-06 rad  Cosine:   2.30967999E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4030,7 +4109,8 @@ In-track      Sine:   6.25476241E-06 rad  Cosine:   4.84846532E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4081,7 +4161,8 @@ In-track      Sine:   5.96232712E-06 rad  Cosine:   3.90782952E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4132,7 +4213,8 @@ In-track      Sine:   6.38142228E-06 rad  Cosine:   3.85753810E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4183,7 +4265,8 @@ In-track      Sine:   6.38142228E-06 rad  Cosine:   3.85753810E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4234,7 +4317,8 @@ In-track      Sine:   6.98491931E-06 rad  Cosine:   4.52436507E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4285,7 +4369,8 @@ In-track      Sine:   7.20098615E-06 rad  Cosine:   4.57651913E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 17 / SVN : 
+PRN : GPS 17
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4336,7 +4421,8 @@ In-track      Sine:   2.94856727E-06 rad  Cosine:  -2.23703682E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 17 / SVN : 
+PRN : GPS 17
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4387,7 +4473,8 @@ In-track      Sine:   2.93180346E-06 rad  Cosine:  -2.16811895E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 17 / SVN : 
+PRN : GPS 17
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4438,7 +4525,8 @@ In-track      Sine:   3.05473804E-06 rad  Cosine:  -2.17556953E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 17 / SVN : 
+PRN : GPS 17
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4489,7 +4577,8 @@ In-track      Sine:   3.47010791E-06 rad  Cosine:  -1.95950270E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 18 / SVN : 
+PRN : GPS 18
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4540,7 +4629,8 @@ In-track      Sine:   8.57748091E-06 rad  Cosine:   1.75461173E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 18 / SVN : 
+PRN : GPS 18
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4591,7 +4681,8 @@ In-track      Sine:   7.96839595E-06 rad  Cosine:   2.34320760E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 18 / SVN : 
+PRN : GPS 18
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4642,7 +4733,8 @@ In-track      Sine:   7.62008131E-06 rad  Cosine:   2.34134495E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 18 / SVN : 
+PRN : GPS 18
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4693,7 +4785,8 @@ In-track      Sine:   7.71507621E-06 rad  Cosine:   2.58721411E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 18 / SVN : 
+PRN : GPS 18
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4744,7 +4837,8 @@ In-track      Sine:   8.61473382E-06 rad  Cosine:   1.83098018E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4795,7 +4889,8 @@ In-track      Sine:   3.63774598E-06 rad  Cosine:  -3.19257379E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4846,7 +4941,8 @@ In-track      Sine:   3.46079469E-06 rad  Cosine:  -3.62657011E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4897,7 +4993,8 @@ In-track      Sine:   3.32109630E-06 rad  Cosine:  -3.33040953E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4948,7 +5045,8 @@ In-track      Sine:   3.15159559E-06 rad  Cosine:  -2.47731805E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -4999,7 +5097,8 @@ In-track      Sine:   3.06405127E-06 rad  Cosine:  -2.22772360E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5050,7 +5149,8 @@ In-track      Sine:   3.71970236E-06 rad  Cosine:  -2.37300992E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 20 / SVN : 
+PRN : GPS 20
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5101,7 +5201,8 @@ In-track      Sine:   8.31484795E-06 rad  Cosine:   2.43261456E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 20 / SVN : 
+PRN : GPS 20
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5152,7 +5253,8 @@ In-track      Sine:   8.43778253E-06 rad  Cosine:   2.37300992E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 20 / SVN : 
+PRN : GPS 20
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5203,7 +5305,8 @@ In-track      Sine:   8.49924982E-06 rad  Cosine:   1.67079270E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 20 / SVN : 
+PRN : GPS 20
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5254,7 +5357,8 @@ In-track      Sine:   8.78237188E-06 rad  Cosine:   1.41933560E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 20 / SVN : 
+PRN : GPS 20
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5305,7 +5409,8 @@ In-track      Sine:   9.56095755E-06 rad  Cosine:   1.99303031E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 21 / SVN : 
+PRN : GPS 21
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5356,7 +5461,8 @@ In-track      Sine:   1.08182430E-05 rad  Cosine:  -4.86895442E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 21 / SVN : 
+PRN : GPS 21
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5407,7 +5513,8 @@ In-track      Sine:   1.01048499E-05 rad  Cosine:  -4.32319939E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 21 / SVN : 
+PRN : GPS 21
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5458,7 +5565,8 @@ In-track      Sine:   9.92976129E-06 rad  Cosine:  -2.79024243E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 21 / SVN : 
+PRN : GPS 21
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5509,7 +5617,8 @@ In-track      Sine:   1.00862235E-05 rad  Cosine:  -3.40864062E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5560,7 +5669,8 @@ In-track      Sine:   8.27200711E-06 rad  Cosine:   2.21841037E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5611,7 +5721,8 @@ In-track      Sine:   8.04848969E-06 rad  Cosine:   2.21095979E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5662,7 +5773,8 @@ In-track      Sine:   7.78213143E-06 rad  Cosine:   2.22772360E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5713,7 +5825,8 @@ In-track      Sine:   8.28877091E-06 rad  Cosine:   2.21841037E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5764,7 +5877,8 @@ In-track      Sine:   8.54954123E-06 rad  Cosine:   1.84960663E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5815,7 +5929,8 @@ In-track      Sine:   8.54954123E-06 rad  Cosine:   1.84960663E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5866,7 +5981,8 @@ In-track      Sine:   5.21540642E-06 rad  Cosine:  -8.71717930E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5917,7 +6033,8 @@ In-track      Sine:   4.78327274E-06 rad  Cosine:  -1.14180148E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -5968,7 +6085,8 @@ In-track      Sine:   4.39584255E-06 rad  Cosine:  -8.19563866E-08 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6019,7 +6137,8 @@ In-track      Sine:   4.39584255E-06 rad  Cosine:  -8.19563866E-08 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6070,7 +6189,8 @@ In-track      Sine:   4.83170152E-06 rad  Cosine:  -3.53902578E-08 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6121,7 +6241,8 @@ In-track      Sine:   5.05335629E-06 rad  Cosine:   5.77419996E-08 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6172,7 +6293,8 @@ In-track      Sine:   1.05369836E-05 rad  Cosine:   4.67523932E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6223,7 +6345,8 @@ In-track      Sine:   1.02277845E-05 rad  Cosine:   3.42726707E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6274,7 +6397,8 @@ In-track      Sine:   1.04103237E-05 rad  Cosine:   2.04890966E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6325,7 +6449,8 @@ In-track      Sine:   9.70438123E-06 rad  Cosine:  -5.51342964E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6376,7 +6501,8 @@ In-track      Sine:   9.88133252E-06 rad  Cosine:  -3.27825546E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6427,7 +6553,8 @@ In-track      Sine:   1.00452453E-05 rad  Cosine:  -1.49011612E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6478,7 +6605,8 @@ In-track      Sine:   6.00330532E-06 rad  Cosine:   5.07384539E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6529,7 +6657,8 @@ In-track      Sine:   5.87664545E-06 rad  Cosine:   4.83542681E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6580,7 +6709,8 @@ In-track      Sine:   6.49876893E-06 rad  Cosine:   4.22261655E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6631,7 +6761,8 @@ In-track      Sine:   6.79679215E-06 rad  Cosine:   4.46848571E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6682,7 +6813,8 @@ In-track      Sine:   7.22147524E-06 rad  Cosine:   4.61935997E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6733,7 +6865,8 @@ In-track      Sine:   7.76350498E-06 rad  Cosine:   4.00096178E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6784,7 +6917,8 @@ In-track      Sine:   6.27525151E-06 rad  Cosine:   4.82983887E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6835,7 +6969,8 @@ In-track      Sine:   6.13741577E-06 rad  Cosine:   5.07757068E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6886,7 +7021,8 @@ In-track      Sine:   6.35161996E-06 rad  Cosine:   4.20212746E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6937,7 +7073,8 @@ In-track      Sine:   6.35161996E-06 rad  Cosine:   4.20212746E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -6988,7 +7125,8 @@ In-track      Sine:   6.58631325E-06 rad  Cosine:   4.27104533E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7039,7 +7177,8 @@ In-track      Sine:   7.18981028E-06 rad  Cosine:   4.55044210E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7090,7 +7229,8 @@ In-track      Sine:   2.80886889E-06 rad  Cosine:  -2.70456076E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7141,7 +7281,8 @@ In-track      Sine:   2.80886889E-06 rad  Cosine:  -2.70456076E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7192,7 +7333,8 @@ In-track      Sine:   2.88337469E-06 rad  Cosine:  -2.64495611E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7243,7 +7385,8 @@ In-track      Sine:   2.83494592E-06 rad  Cosine:  -2.08057463E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7294,7 +7437,8 @@ In-track      Sine:   2.58535147E-06 rad  Cosine:  -1.96136534E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7345,7 +7489,8 @@ In-track      Sine:   2.76975334E-06 rad  Cosine:  -1.67265534E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7396,7 +7541,8 @@ In-track      Sine:   2.99513340E-06 rad  Cosine:  -2.01724470E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7447,7 +7593,8 @@ In-track      Sine:   6.70924783E-06 rad  Cosine:   3.60608101E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7498,7 +7645,8 @@ In-track      Sine:   7.00727105E-06 rad  Cosine:   4.23379242E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7549,7 +7697,8 @@ In-track      Sine:   7.00727105E-06 rad  Cosine:   4.23379242E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7600,7 +7749,8 @@ In-track      Sine:   6.70552254E-06 rad  Cosine:   4.82611358E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7651,7 +7801,8 @@ In-track      Sine:   7.08363950E-06 rad  Cosine:   4.76650894E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7702,7 +7853,8 @@ In-track      Sine:   6.83404505E-06 rad  Cosine:   3.74577940E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 29 / SVN : 
+PRN : GPS 29
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7753,7 +7905,8 @@ In-track      Sine:   3.19443643E-06 rad  Cosine:  -3.45893204E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 29 / SVN : 
+PRN : GPS 29
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7804,7 +7957,8 @@ In-track      Sine:   3.30619514E-06 rad  Cosine:  -3.30805779E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 29 / SVN : 
+PRN : GPS 29
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7855,7 +8009,8 @@ In-track      Sine:   3.25776637E-06 rad  Cosine:  -2.96905637E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 29 / SVN : 
+PRN : GPS 29
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7906,7 +8061,8 @@ In-track      Sine:   3.38256359E-06 rad  Cosine:  -2.07126141E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 30 / SVN : 
+PRN : GPS 30
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -7957,7 +8113,8 @@ In-track      Sine:   1.07754022E-05 rad  Cosine:   8.45640898E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 30 / SVN : 
+PRN : GPS 30
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -8008,7 +8165,8 @@ In-track      Sine:   1.03544444E-05 rad  Cosine:  -1.30385160E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 30 / SVN : 
+PRN : GPS 30
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -8059,7 +8217,8 @@ In-track      Sine:   1.02929771E-05 rad  Cosine:   6.14672899E-08 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 30 / SVN : 
+PRN : GPS 30
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -8110,7 +8269,8 @@ In-track      Sine:   1.04140490E-05 rad  Cosine:   2.75671482E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 30 / SVN : 
+PRN : GPS 30
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -8161,7 +8321,8 @@ In-track      Sine:   1.03954226E-05 rad  Cosine:   6.12810254E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 31 / SVN : 
+PRN : GPS 31
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -8212,7 +8373,8 @@ In-track      Sine:   1.03209168E-05 rad  Cosine:   5.79282641E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 31 / SVN : 
+PRN : GPS 31
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -8263,7 +8425,8 @@ In-track      Sine:   1.03171915E-05 rad  Cosine:   4.48897481E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 31 / SVN : 
+PRN : GPS 31
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -8314,7 +8477,8 @@ In-track      Sine:   1.09504908E-05 rad  Cosine:   3.24100256E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 31 / SVN : 
+PRN : GPS 31
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -8365,7 +8529,8 @@ In-track      Sine:   1.11982226E-05 rad  Cosine:   4.91738319E-07 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 32 / SVN : 
+PRN : GPS 32
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -8416,7 +8581,8 @@ In-track      Sine:   7.58096576E-06 rad  Cosine:   2.38791108E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 32 / SVN : 
+PRN : GPS 32
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -8467,7 +8633,8 @@ In-track      Sine:   7.86781311E-06 rad  Cosine:   2.23331153E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 32 / SVN : 
+PRN : GPS 32
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -8518,7 +8685,8 @@ In-track      Sine:   8.09133053E-06 rad  Cosine:   2.20723450E-06 rad
 ****************************************************************************
 Broadcast Ephemeris (Engineering Units)
 
-PRN : GPS 32 / SVN : 
+PRN : GPS 32
+CODE: GPS_LNAV L1 CA
 
            SUBFRAME OVERHEAD
 
@@ -8585,7 +8753,8 @@ UTC                     Unknown
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 0 / SVN : 
+PRN : GPS 0
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8598,7 +8767,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8611,7 +8781,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8624,7 +8795,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8637,7 +8809,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8650,7 +8823,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8663,7 +8837,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8676,7 +8851,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8689,7 +8865,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8702,7 +8879,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8715,7 +8893,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8728,7 +8907,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8741,7 +8921,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8754,7 +8935,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8767,7 +8949,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8780,7 +8963,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8793,7 +8977,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8806,7 +8991,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8819,7 +9005,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8832,7 +9019,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8845,7 +9033,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8858,7 +9047,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8871,7 +9061,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8884,7 +9075,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8897,7 +9089,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8910,7 +9103,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8923,7 +9117,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 5 / SVN : 
+PRN : GPS 5
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8936,7 +9131,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 5 / SVN : 
+PRN : GPS 5
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8949,7 +9145,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 5 / SVN : 
+PRN : GPS 5
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8962,7 +9159,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 5 / SVN : 
+PRN : GPS 5
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8975,7 +9173,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 5 / SVN : 
+PRN : GPS 5
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -8988,7 +9187,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 6 / SVN : 
+PRN : GPS 6
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9001,7 +9201,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 6 / SVN : 
+PRN : GPS 6
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9014,7 +9215,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 6 / SVN : 
+PRN : GPS 6
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9027,7 +9229,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 6 / SVN : 
+PRN : GPS 6
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9040,7 +9243,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9053,7 +9257,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9066,7 +9271,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9079,7 +9285,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9092,7 +9299,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9105,7 +9313,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9118,7 +9327,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 9 / SVN : 
+PRN : GPS 9
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9131,7 +9341,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 9 / SVN : 
+PRN : GPS 9
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9144,7 +9355,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 9 / SVN : 
+PRN : GPS 9
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9157,7 +9369,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 9 / SVN : 
+PRN : GPS 9
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9170,7 +9383,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 10 / SVN : 
+PRN : GPS 10
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9183,7 +9397,8 @@ Status             Unhealthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 10 / SVN : 
+PRN : GPS 10
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9196,7 +9411,8 @@ Status             Unhealthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 10 / SVN : 
+PRN : GPS 10
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9209,7 +9425,8 @@ Status             Unhealthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 10 / SVN : 
+PRN : GPS 10
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9222,7 +9439,8 @@ Status             Unhealthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 10 / SVN : 
+PRN : GPS 10
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9235,7 +9453,8 @@ Status             Unhealthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9248,7 +9467,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9261,7 +9481,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9274,7 +9495,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9287,7 +9509,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9300,7 +9523,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9313,7 +9537,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9326,7 +9551,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9339,7 +9565,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9352,7 +9579,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9365,7 +9593,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9378,7 +9607,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9391,7 +9621,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9404,7 +9635,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9417,7 +9649,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9430,7 +9663,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9443,7 +9677,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9456,7 +9691,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9469,7 +9705,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 14 / SVN : 
+PRN : GPS 14
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9482,7 +9719,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 14 / SVN : 
+PRN : GPS 14
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9495,7 +9733,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 14 / SVN : 
+PRN : GPS 14
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9508,7 +9747,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 14 / SVN : 
+PRN : GPS 14
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9521,7 +9761,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 14 / SVN : 
+PRN : GPS 14
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9534,7 +9775,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9547,7 +9789,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9560,7 +9803,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9573,7 +9817,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9586,7 +9831,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9599,7 +9845,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9612,7 +9859,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9625,7 +9873,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9638,7 +9887,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9651,7 +9901,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9664,7 +9915,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9677,7 +9929,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9690,7 +9943,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 17 / SVN : 
+PRN : GPS 17
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9703,7 +9957,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 17 / SVN : 
+PRN : GPS 17
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9716,7 +9971,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 17 / SVN : 
+PRN : GPS 17
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9729,7 +9985,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 17 / SVN : 
+PRN : GPS 17
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9742,7 +9999,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 18 / SVN : 
+PRN : GPS 18
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9755,7 +10013,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 18 / SVN : 
+PRN : GPS 18
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9768,7 +10027,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 18 / SVN : 
+PRN : GPS 18
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9781,7 +10041,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 18 / SVN : 
+PRN : GPS 18
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9794,7 +10055,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 18 / SVN : 
+PRN : GPS 18
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9807,7 +10069,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9820,7 +10083,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9833,7 +10097,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9846,7 +10111,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9859,7 +10125,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9872,7 +10139,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9885,7 +10153,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 20 / SVN : 
+PRN : GPS 20
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9898,7 +10167,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 20 / SVN : 
+PRN : GPS 20
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9911,7 +10181,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 20 / SVN : 
+PRN : GPS 20
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9924,7 +10195,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 20 / SVN : 
+PRN : GPS 20
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9937,7 +10209,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 20 / SVN : 
+PRN : GPS 20
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9950,7 +10223,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 21 / SVN : 
+PRN : GPS 21
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9963,7 +10237,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 21 / SVN : 
+PRN : GPS 21
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9976,7 +10251,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 21 / SVN : 
+PRN : GPS 21
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -9989,7 +10265,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 21 / SVN : 
+PRN : GPS 21
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10002,7 +10279,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10015,7 +10293,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10028,7 +10307,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10041,7 +10321,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10054,7 +10335,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10067,7 +10349,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10080,7 +10363,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10093,7 +10377,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10106,7 +10391,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10119,7 +10405,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10132,7 +10419,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10145,7 +10433,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10158,7 +10447,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10171,7 +10461,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10184,7 +10475,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10197,7 +10489,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10210,7 +10503,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10223,7 +10517,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10236,7 +10531,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10249,7 +10545,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10262,7 +10559,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10275,7 +10573,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10288,7 +10587,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10301,7 +10601,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10314,7 +10615,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10327,7 +10629,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10340,7 +10643,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10353,7 +10657,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10366,7 +10671,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10379,7 +10685,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10392,7 +10699,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10405,7 +10713,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10418,7 +10727,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10431,7 +10741,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10444,7 +10755,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10457,7 +10769,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10470,7 +10783,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10483,7 +10797,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10496,7 +10811,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10509,7 +10825,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10522,7 +10839,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10535,7 +10853,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10548,7 +10867,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10561,7 +10881,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 29 / SVN : 
+PRN : GPS 29
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10574,7 +10895,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 29 / SVN : 
+PRN : GPS 29
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10587,7 +10909,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 29 / SVN : 
+PRN : GPS 29
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10600,7 +10923,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 29 / SVN : 
+PRN : GPS 29
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10613,7 +10937,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 30 / SVN : 
+PRN : GPS 30
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10626,7 +10951,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 30 / SVN : 
+PRN : GPS 30
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10639,7 +10965,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 30 / SVN : 
+PRN : GPS 30
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10652,7 +10979,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 30 / SVN : 
+PRN : GPS 30
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10665,7 +10993,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 30 / SVN : 
+PRN : GPS 30
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10678,7 +11007,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 31 / SVN : 
+PRN : GPS 31
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10691,7 +11021,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 31 / SVN : 
+PRN : GPS 31
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10704,7 +11035,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 31 / SVN : 
+PRN : GPS 31
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10717,7 +11049,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 31 / SVN : 
+PRN : GPS 31
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10730,7 +11063,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 32 / SVN : 
+PRN : GPS 32
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10743,7 +11077,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 32 / SVN : 
+PRN : GPS 32
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10756,7 +11091,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 32 / SVN : 
+PRN : GPS 32
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10769,7 +11105,8 @@ Status             Healthy
 ****************************************************************************
 Satellite Health
 
-PRN : GPS 32 / SVN : 
+PRN : GPS 32
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10782,8 +11119,8 @@ Status             Healthy
 ****************************************************************************
 Ionospheric correction data
 
-PRN : GPS 0 / SVN : 
-
+PRN : GPS 0
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10803,7 +11140,8 @@ beta[3]      -1.69091000E+04 sec/semi-circle**3
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10816,7 +11154,8 @@ Tgd:                 5.12227416E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10829,7 +11168,8 @@ Tgd:                 5.12227416E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10842,7 +11182,8 @@ Tgd:                 5.12227416E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10855,7 +11196,8 @@ Tgd:                 5.12227416E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10868,7 +11210,8 @@ Tgd:                 5.12227416E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10881,7 +11224,8 @@ Tgd:                 5.12227416E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 1 / SVN : 
+PRN : GPS 1
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10894,7 +11238,8 @@ Tgd:                 5.12227416E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10907,7 +11252,8 @@ Tgd:                -2.04890966E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10920,7 +11266,8 @@ Tgd:                -2.04890966E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10933,7 +11280,8 @@ Tgd:                -2.04890966E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10946,7 +11294,8 @@ Tgd:                -2.04890966E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10959,7 +11308,8 @@ Tgd:                -2.04890966E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 2 / SVN : 
+PRN : GPS 2
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10972,7 +11322,8 @@ Tgd:                -2.04890966E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10985,7 +11336,8 @@ Tgd:                 1.86264515E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -10998,7 +11350,8 @@ Tgd:                 1.86264515E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11011,7 +11364,8 @@ Tgd:                 1.86264515E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11024,7 +11378,8 @@ Tgd:                 1.86264515E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11037,7 +11392,8 @@ Tgd:                 1.86264515E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 3 / SVN : 
+PRN : GPS 3
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11050,7 +11406,8 @@ Tgd:                 1.86264515E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11063,7 +11420,8 @@ Tgd:                -6.51925802E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11076,7 +11434,8 @@ Tgd:                -6.51925802E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11089,7 +11448,8 @@ Tgd:                -6.51925802E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11102,7 +11462,8 @@ Tgd:                -6.51925802E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11115,7 +11476,8 @@ Tgd:                -6.51925802E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 4 / SVN : 
+PRN : GPS 4
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11128,7 +11490,8 @@ Tgd:                -6.51925802E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 5 / SVN : 
+PRN : GPS 5
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11141,7 +11504,8 @@ Tgd:                -1.07102096E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 5 / SVN : 
+PRN : GPS 5
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11154,7 +11518,8 @@ Tgd:                -1.07102096E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 5 / SVN : 
+PRN : GPS 5
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11167,7 +11532,8 @@ Tgd:                -1.07102096E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 5 / SVN : 
+PRN : GPS 5
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11180,7 +11546,8 @@ Tgd:                -1.07102096E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 5 / SVN : 
+PRN : GPS 5
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11193,7 +11560,8 @@ Tgd:                -1.07102096E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 6 / SVN : 
+PRN : GPS 6
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11206,7 +11574,8 @@ Tgd:                 4.19095159E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 6 / SVN : 
+PRN : GPS 6
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11219,7 +11588,8 @@ Tgd:                 4.19095159E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 6 / SVN : 
+PRN : GPS 6
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11232,7 +11602,8 @@ Tgd:                 4.19095159E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 6 / SVN : 
+PRN : GPS 6
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11245,7 +11616,8 @@ Tgd:                 4.19095159E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11258,7 +11630,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11271,7 +11644,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11284,7 +11658,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11297,7 +11672,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11310,7 +11686,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 7 / SVN : 
+PRN : GPS 7
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11323,7 +11700,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 9 / SVN : 
+PRN : GPS 9
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11336,7 +11714,8 @@ Tgd:                 9.31322575E-10
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 9 / SVN : 
+PRN : GPS 9
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11349,7 +11728,8 @@ Tgd:                 9.31322575E-10
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 9 / SVN : 
+PRN : GPS 9
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11362,7 +11742,8 @@ Tgd:                 9.31322575E-10
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 9 / SVN : 
+PRN : GPS 9
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11375,7 +11756,8 @@ Tgd:                 9.31322575E-10
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 10 / SVN : 
+PRN : GPS 10
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11388,7 +11770,8 @@ Tgd:                -2.79396772E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 10 / SVN : 
+PRN : GPS 10
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11401,7 +11784,8 @@ Tgd:                -2.79396772E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 10 / SVN : 
+PRN : GPS 10
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11414,7 +11798,8 @@ Tgd:                -2.79396772E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 10 / SVN : 
+PRN : GPS 10
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11427,7 +11812,8 @@ Tgd:                -2.79396772E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 10 / SVN : 
+PRN : GPS 10
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11440,7 +11826,8 @@ Tgd:                -2.79396772E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11453,7 +11840,8 @@ Tgd:                -1.21071935E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11466,7 +11854,8 @@ Tgd:                -1.21071935E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11479,7 +11868,8 @@ Tgd:                -1.21071935E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11492,7 +11882,8 @@ Tgd:                -1.21071935E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11505,7 +11896,8 @@ Tgd:                -1.21071935E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 11 / SVN : 
+PRN : GPS 11
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11518,7 +11910,8 @@ Tgd:                -1.21071935E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11531,7 +11924,8 @@ Tgd:                -1.25728548E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11544,7 +11938,8 @@ Tgd:                -1.25728548E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11557,7 +11952,8 @@ Tgd:                -1.25728548E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11570,7 +11966,8 @@ Tgd:                -1.25728548E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11583,7 +11980,8 @@ Tgd:                -1.25728548E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 12 / SVN : 
+PRN : GPS 12
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11596,7 +11994,8 @@ Tgd:                -1.25728548E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11609,7 +12008,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11622,7 +12022,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11635,7 +12036,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11648,7 +12050,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11661,7 +12064,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 13 / SVN : 
+PRN : GPS 13
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11674,7 +12078,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 14 / SVN : 
+PRN : GPS 14
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11687,7 +12092,8 @@ Tgd:                -9.31322575E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 14 / SVN : 
+PRN : GPS 14
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11700,7 +12106,8 @@ Tgd:                -9.31322575E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 14 / SVN : 
+PRN : GPS 14
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11713,7 +12120,8 @@ Tgd:                -9.31322575E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 14 / SVN : 
+PRN : GPS 14
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11726,7 +12134,8 @@ Tgd:                -9.31322575E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 14 / SVN : 
+PRN : GPS 14
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11739,7 +12148,8 @@ Tgd:                -9.31322575E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11752,7 +12162,8 @@ Tgd:                -1.07102096E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11765,7 +12176,8 @@ Tgd:                -1.07102096E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11778,7 +12190,8 @@ Tgd:                -1.07102096E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11791,7 +12204,8 @@ Tgd:                -1.07102096E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11804,7 +12218,8 @@ Tgd:                -1.07102096E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 15 / SVN : 
+PRN : GPS 15
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11817,7 +12232,8 @@ Tgd:                -1.07102096E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11830,7 +12246,8 @@ Tgd:                -1.02445483E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11843,7 +12260,8 @@ Tgd:                -1.02445483E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11856,7 +12274,8 @@ Tgd:                -1.02445483E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11869,7 +12288,8 @@ Tgd:                -1.02445483E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11882,7 +12302,8 @@ Tgd:                -1.02445483E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 16 / SVN : 
+PRN : GPS 16
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11895,7 +12316,8 @@ Tgd:                -1.02445483E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 17 / SVN : 
+PRN : GPS 17
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11908,7 +12330,8 @@ Tgd:                -1.07102096E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 17 / SVN : 
+PRN : GPS 17
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11921,7 +12344,8 @@ Tgd:                -1.07102096E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 17 / SVN : 
+PRN : GPS 17
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11934,7 +12358,8 @@ Tgd:                -1.07102096E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 17 / SVN : 
+PRN : GPS 17
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11947,7 +12372,8 @@ Tgd:                -1.07102096E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 18 / SVN : 
+PRN : GPS 18
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11960,7 +12386,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 18 / SVN : 
+PRN : GPS 18
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11973,7 +12400,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 18 / SVN : 
+PRN : GPS 18
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11986,7 +12414,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 18 / SVN : 
+PRN : GPS 18
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -11999,7 +12428,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 18 / SVN : 
+PRN : GPS 18
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12012,7 +12442,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12025,7 +12456,8 @@ Tgd:                -1.49011612E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12038,7 +12470,8 @@ Tgd:                -1.49011612E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12051,7 +12484,8 @@ Tgd:                -1.49011612E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12064,7 +12498,8 @@ Tgd:                -1.49011612E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12077,7 +12512,8 @@ Tgd:                -1.49011612E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 19 / SVN : 
+PRN : GPS 19
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12090,7 +12526,8 @@ Tgd:                -1.49011612E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 20 / SVN : 
+PRN : GPS 20
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12103,7 +12540,8 @@ Tgd:                -8.38190317E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 20 / SVN : 
+PRN : GPS 20
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12116,7 +12554,8 @@ Tgd:                -8.38190317E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 20 / SVN : 
+PRN : GPS 20
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12129,7 +12568,8 @@ Tgd:                -8.38190317E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 20 / SVN : 
+PRN : GPS 20
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12142,7 +12582,8 @@ Tgd:                -8.38190317E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 20 / SVN : 
+PRN : GPS 20
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12155,7 +12596,8 @@ Tgd:                -8.38190317E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 21 / SVN : 
+PRN : GPS 21
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12168,7 +12610,8 @@ Tgd:                -1.16415322E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 21 / SVN : 
+PRN : GPS 21
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12181,7 +12624,8 @@ Tgd:                -1.16415322E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 21 / SVN : 
+PRN : GPS 21
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12194,7 +12638,8 @@ Tgd:                -1.16415322E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 21 / SVN : 
+PRN : GPS 21
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12207,7 +12652,8 @@ Tgd:                -1.16415322E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12220,7 +12666,8 @@ Tgd:                -1.76951289E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12233,7 +12680,8 @@ Tgd:                -1.76951289E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12246,7 +12694,8 @@ Tgd:                -1.76951289E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12259,7 +12708,8 @@ Tgd:                -1.76951289E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12272,7 +12722,8 @@ Tgd:                -1.76951289E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 22 / SVN : 
+PRN : GPS 22
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12285,7 +12736,8 @@ Tgd:                -1.76951289E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12298,7 +12750,8 @@ Tgd:                -2.00234354E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12311,7 +12764,8 @@ Tgd:                -2.00234354E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12324,7 +12778,8 @@ Tgd:                -2.00234354E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12337,7 +12792,8 @@ Tgd:                -2.00234354E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12350,7 +12806,8 @@ Tgd:                -2.00234354E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 23 / SVN : 
+PRN : GPS 23
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12363,7 +12820,8 @@ Tgd:                -2.00234354E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12376,7 +12834,8 @@ Tgd:                 2.32830644E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12389,7 +12848,8 @@ Tgd:                 2.32830644E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12402,7 +12862,8 @@ Tgd:                 2.32830644E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12415,7 +12876,8 @@ Tgd:                 2.32830644E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12428,7 +12890,8 @@ Tgd:                 2.32830644E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 24 / SVN : 
+PRN : GPS 24
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12441,7 +12904,8 @@ Tgd:                 2.32830644E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12454,7 +12918,8 @@ Tgd:                 5.12227416E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12467,7 +12932,8 @@ Tgd:                 5.12227416E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12480,7 +12946,8 @@ Tgd:                 5.12227416E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12493,7 +12960,8 @@ Tgd:                 5.12227416E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12506,7 +12974,8 @@ Tgd:                 5.12227416E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 25 / SVN : 
+PRN : GPS 25
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12519,7 +12988,8 @@ Tgd:                 5.12227416E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12532,7 +13002,8 @@ Tgd:                 7.45058060E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12545,7 +13016,8 @@ Tgd:                 7.45058060E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12558,7 +13030,8 @@ Tgd:                 7.45058060E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12571,7 +13044,8 @@ Tgd:                 7.45058060E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12584,7 +13058,8 @@ Tgd:                 7.45058060E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 26 / SVN : 
+PRN : GPS 26
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12597,7 +13072,8 @@ Tgd:                 7.45058060E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12610,7 +13086,8 @@ Tgd:                 1.39698386E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12623,7 +13100,8 @@ Tgd:                 1.39698386E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12636,7 +13114,8 @@ Tgd:                 1.39698386E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12649,7 +13128,8 @@ Tgd:                 1.39698386E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12662,7 +13142,8 @@ Tgd:                 1.39698386E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12675,7 +13156,8 @@ Tgd:                 1.39698386E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 27 / SVN : 
+PRN : GPS 27
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12688,7 +13170,8 @@ Tgd:                 1.39698386E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12701,7 +13184,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12714,7 +13198,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12727,7 +13212,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12740,7 +13226,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12753,7 +13240,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 28 / SVN : 
+PRN : GPS 28
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12766,7 +13254,8 @@ Tgd:                -1.11758709E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 29 / SVN : 
+PRN : GPS 29
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12779,7 +13268,8 @@ Tgd:                -1.02445483E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 29 / SVN : 
+PRN : GPS 29
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12792,7 +13282,8 @@ Tgd:                -1.02445483E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 29 / SVN : 
+PRN : GPS 29
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12805,7 +13296,8 @@ Tgd:                -1.02445483E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 29 / SVN : 
+PRN : GPS 29
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12818,7 +13310,8 @@ Tgd:                -1.02445483E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 30 / SVN : 
+PRN : GPS 30
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12831,7 +13324,8 @@ Tgd:                 3.25962901E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 30 / SVN : 
+PRN : GPS 30
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12844,7 +13338,8 @@ Tgd:                 3.25962901E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 30 / SVN : 
+PRN : GPS 30
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12857,7 +13352,8 @@ Tgd:                 3.25962901E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 30 / SVN : 
+PRN : GPS 30
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12870,7 +13366,8 @@ Tgd:                 3.25962901E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 30 / SVN : 
+PRN : GPS 30
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12883,7 +13380,8 @@ Tgd:                 3.25962901E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 31 / SVN : 
+PRN : GPS 31
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12896,7 +13394,8 @@ Tgd:                -1.35041773E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 31 / SVN : 
+PRN : GPS 31
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12909,7 +13408,8 @@ Tgd:                -1.35041773E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 31 / SVN : 
+PRN : GPS 31
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12922,7 +13422,8 @@ Tgd:                -1.35041773E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 31 / SVN : 
+PRN : GPS 31
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12935,7 +13436,8 @@ Tgd:                -1.35041773E-08
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 32 / SVN : 
+PRN : GPS 32
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12948,7 +13450,8 @@ Tgd:                -3.72529030E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 32 / SVN : 
+PRN : GPS 32
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12961,7 +13464,8 @@ Tgd:                -3.72529030E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 32 / SVN : 
+PRN : GPS 32
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
@@ -12974,7 +13478,8 @@ Tgd:                -3.72529030E-09
 ****************************************************************************
 Inter-signal Corrections
 
-PRN : GPS 32 / SVN : 
+PRN : GPS 32
+CODE: GPS_LNAV L1 CA
 
            TIMES OF INTEREST
 
