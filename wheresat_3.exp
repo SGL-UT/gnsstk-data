@@ -5,8 +5,8 @@ positionOpt has count = 1
 # time, PRN, X(m), Y(m), Z(m), Clock Correction(ms), Azimuth(deg), Elevation(deg), Range(m)
 File read by NavLibrary.
 Number of satellites for which positions will be computed = 31
-07/18/2015 00:15:00 Any
-07/18/2015 01:00:00 Any
+07/18/2015 00:15:00 GPS
+07/18/2015 01:00:00 GPS
 07/18/2015 00:15:00.0  G01   17672402.550   13415278.484  -14804555.140  -0.002718        -        -               -
 07/18/2015 00:15:00.0  G02    5415412.776  -15088956.681   21508724.412   0.578896   32.905   50.890    21404443.688
 07/18/2015 00:15:00.0  G03   13719972.077   21499248.503    7372779.059   0.008137        -        -               -
