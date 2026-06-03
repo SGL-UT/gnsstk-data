@@ -46,3 +46,6 @@ rinnav_BDS_D2_test.14n:
 test_input_rinex3_nav_gal.20n:
         Edited navigation data containing one GPS and several Galileo I/Nav
         and F/Nav ephemerides.
+
+ IGS0OPSFIN_20251450000_01D_15M_ORB.SP3 and IGS0OPSFIN_20251460000_01D_15M_ORB.SP3:
+        Expected input of raimComputeAPVTest unit test in PRSolutionNew_T.
